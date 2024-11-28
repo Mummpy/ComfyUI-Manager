@@ -540,6 +540,17 @@
       "size": "6.94GB"
     },
     {
+      "name": "Juggernaut XL v9 FP16",
+      "type": "checkpoint", 
+      "base": "SDXL",
+      "save_path": "checkpoints",
+      "description": "Juggernaut XL is a model trained to create high quality, photorealistic images with a focus on people, environments, and objects. It excels at portraits, full body shots, architecture, products and more.",
+      "reference": "https://civitai.com/models/133005/juggernaut-xl",
+      "filename": "juggernautXL_v9_fp16.safetensors",
+      "url": "https://civitai.com/api/download/models/456194?type=Model&format=SafeTensor&size=full&fp=fp16",
+      "size": "6.46GB"
+    },
+    {
       "name": "sd_xl_refiner_1.0_0.9vae.safetensors",
       "type": "checkpoint",
       "base": "SDXL",
