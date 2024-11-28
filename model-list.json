@@ -551,6 +551,17 @@
       "size": "6.46GB"
     },
     {
+      "name": "Flux Dev",
+      "type": "checkpoint",
+      "base": "Flux.1 D", 
+      "save_path": "checkpoints",
+      "description": "Flux Dev model",
+      "reference": "https://civitai.com/models/691639",
+      "filename": "flux_dev.safetensors",
+      "url": "https://civitai.com/api/download/models/691639?type=Model&format=SafeTensor&size=full&fp=fp32",
+      "size": "22.17GB"
+    },
+    {
       "name": "sd_xl_refiner_1.0_0.9vae.safetensors",
       "type": "checkpoint",
       "base": "SDXL",
