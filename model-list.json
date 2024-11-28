@@ -551,7 +551,7 @@
       "size": "6.46GB"
     },
     {
-      "name": "Flux Dev",
+      "name": "Flux Dev Official",
       "type": "checkpoint",
       "base": "Flux.1 D", 
       "save_path": "checkpoints",
